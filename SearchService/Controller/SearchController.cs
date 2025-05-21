@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MongoDB.Entities;
 using SearchService.Models;
-using SearchService.ReauestHelpers;
+using SearchService.RequestHelpers;
 
 namespace SearchService.Controller;
 
